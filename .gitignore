@@ -1,7 +1,6 @@
 .tmp
-#dist
-npm-debug.log
-#node_modules
+dist
+node_modules
 downloaded
 #docular_generated
 #client/app/js/lb-services.js
@@ -21,3 +20,7 @@ client/coverage
 #.config
 .npm
 .DS_Store
+
+build
+node_modules
+*.log
